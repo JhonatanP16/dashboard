@@ -15,7 +15,7 @@ const Roles = () => {
       <Box sx={{display:'flex',justifyContent:'space-between',alignItems:'center',marginBottom:'16px'}}>
         <Typography variant='h6'>Roles</Typography>
         <Button variant='contained' sx={{borderRadius:'10px'}} startIcon={<PlusOneOutlined/>} onClick={handleClick}>
-          Role
+          Roles
         </Button>
       </Box>
       <AddRoles open={open} handleClose={handleClose}/>
