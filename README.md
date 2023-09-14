@@ -2,7 +2,7 @@
 
 ## Como usar
 
-Ver aqui: https://aridsm-quiz-app.netlify.app/
+Ver aqui: 
 
 
 ```
