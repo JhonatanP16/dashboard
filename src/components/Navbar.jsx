@@ -13,7 +13,7 @@ const Navbar = ({openNav,onCloseNav}) => {
         flexDirection:'column',
     }}>
         <Toolbar sx={{fontSize:'20px',fontWeight:600,color:'primary.main'}}>
-         I.E. San Sebastian
+        San Sebastian
         </Toolbar>
         <List>
             {
